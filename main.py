@@ -11,6 +11,7 @@ df = load_data('data.csv')
 df = encode_target(df)
 df = encode_categoricals(df)
 # 3. Separar features (X) e target (y)
+
 X = df.drop('Target', axis=1)
 y = df['Target']
 df = normalize_data(df)
