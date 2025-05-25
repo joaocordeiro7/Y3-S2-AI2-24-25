@@ -42,7 +42,7 @@ To run this project, ensure you have the following installed:
 
 1. Prepare the Dataset:
 
-Ensure the dataset file ```data.csv``` is in the root directory of the project.
+   Ensure the dataset file ```data.csv``` is in the root directory of the project.
 Run the Program:
 
 2. Execute the main script:
