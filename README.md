@@ -26,6 +26,16 @@ To run this project, ensure you have the following installed:
    git clone https://github.com/your-repo/proj2.git
    cd proj2
    ```
+
+2. Install the requirede Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   If ```requirements.txt``` is not available, install the libraries manually:
+   ```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn
+   ```
+   
 ---
 
 ## Usage
